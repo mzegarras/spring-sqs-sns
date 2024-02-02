@@ -1,0 +1,12 @@
+logging:
+  level:
+    root: INFO
+    #com.mycompany.myapp: DEBUG
+
+
+server:
+  port: 8081
+
+spring.cloud.aws.credentials.access-key: AKIARF2ZW7GNC5QG6AN4
+spring.cloud.aws.credentials.secret-key: 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
+spring.cloud.aws.region.static: us-east-2
